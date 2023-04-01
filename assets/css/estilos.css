@@ -11,6 +11,10 @@ body {
   background-position: left;
 }
 
+#Acerca-de-mi {
+  background-color: azure;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
