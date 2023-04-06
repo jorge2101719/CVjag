@@ -1,5 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: burlywood;
 }
 
 /* Hero Section */
@@ -12,7 +13,7 @@ body {
 }
 
 #Acerca-de-mi {
-  background-color: azure;
+  background-image: linear-gradient(cyan, green);
 }
 
 /* Mis trabajos */
